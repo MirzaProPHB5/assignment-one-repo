@@ -127,6 +127,7 @@ h3{
     font-family: 'Poppins', sans-serif;
     display: flex;
     margin-bottom: 120px;
+    font-size: 22px;
 }
 .bold-headingg{
     font-family: 'Poppins', sans-serif;
@@ -140,4 +141,15 @@ h3{
     background-position: left;
     margin: 0%;
     background-size: 700px 300px;
+}
+.forth-part{
+    background-image: url(images/shapes/shape-8.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin: 0%;
+    background-size: 50% 50%;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    margin-bottom: 120px;
+    font-size: 22px;
 }
