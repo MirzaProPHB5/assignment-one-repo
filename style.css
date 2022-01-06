@@ -34,6 +34,7 @@ body{
     height: 60%;
     padding-left: 10%;
     padding-top: 0%;
+    padding-bottom: 0%;
 }
 .bodypart-one{
     font-size: 22px;
@@ -51,7 +52,7 @@ p{
     text-align: justify;
 }
 #blue-word{
-    color: rgb(114, 187, 187);  
+    color: rgb(79, 168, 71);  
 }
 .second-part{
     font-family: 'Poppins', sans-serif;
@@ -150,7 +151,7 @@ h3{
     background-size: 50% 50%;
     font-family: 'Poppins', sans-serif;
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 250px;
     font-size: 22px;
 }
 .bold-footer{
