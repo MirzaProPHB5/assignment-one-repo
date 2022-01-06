@@ -3,7 +3,7 @@ body{
 }
 .first-part{
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 10px;
 }
 
 #blue-text{
@@ -49,4 +49,76 @@ body{
 }
 p{
     text-align: justify;
+}
+#blue-word{
+    color: rgb(114, 187, 187);  
+}
+.second-part{
+    font-family: 'Poppins', sans-serif;
+}
+.bold-heading{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 900px;
+}
+.second-itemone{
+    width: 25%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 5%;
+    padding-top: 2%;
+    margin-left: 2%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-right: 2%;
+    border-radius: 15px;
+    background-color: rgb(247, 135, 115);
+}
+h3{
+    font-size: 22px;
+}
+.text-size{
+    font-size: 15px;
+}
+.second-itemone img{
+    width: 50%;
+    height: 50%;
+}
+.second-itemtwo{
+    width: 25%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    margin-left: 2%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-right: 2%;
+    border-radius: 15px;
+    background-color: rgb(214, 247, 126);
+}
+.second-itemtwo img{
+    width: 50%;
+    height: 50%;
+}
+.second-itemthree{
+    width: 25%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    margin-left: 2%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-right: 2%;
+    border-radius: 15px;
+    background-color: rgb(247, 126, 221);
+}
+.second-itemthree img{
+    width: 50%;
+    height: 50%;
+}
+.second-area{
+    display: flex;
 }
