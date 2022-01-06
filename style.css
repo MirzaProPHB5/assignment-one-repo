@@ -121,4 +121,23 @@ h3{
 }
 .second-area{
     display: flex;
+    margin-bottom: 100px;
+}
+.third-part{
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    margin-bottom: 120px;
+}
+.bold-headingg{
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    font-weight: 700px;
+    text-align: left;
+}
+.third-part{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    margin: 0%;
+    background-size: 700px 300px;
 }
